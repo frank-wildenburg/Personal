@@ -32,6 +32,8 @@ launch_buttons:
   colab_url: "https://colab.research.google.com"
   jupyterhub_url: ""
 
+logo: docs/images/actions_page.png
+
 sphinx:
   extra_extensions:
     # This is to work around the bug of no syntax highlighting

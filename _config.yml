@@ -32,7 +32,7 @@ launch_buttons:
   colab_url: "https://colab.research.google.com"
   jupyterhub_url: ""
 
-logo: docs/images/actions_page.png
+logo: docs/images/frank.jpeg
 
 sphinx:
   extra_extensions:

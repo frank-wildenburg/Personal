@@ -4,6 +4,6 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/media
-- file: docs/travel
-- file: docs/cv
+- file: docs/media.ipynb
+- file: docs/travel.ipynb
+- file: docs/cv.ipynb

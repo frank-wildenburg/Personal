@@ -68,7 +68,7 @@
 67;Jay-Z;Reasonable doubt;1996;;;
 68;Kate Bush;Hounds of love;1985;;;
 69;Alanis Morissette;Jagged little pill;1995;X;CD;
-70;N.W.A.;Straight outta Compton;1988;;;
+70;N.W.A.;Straight outta Compton;1988;X;CD;
 71;Bob Marley and the Wailers;Exodus;1977;;;
 72;Neil Young;Harvest;1972;X;CD;
 73;My bloody Valentine;Loveless;1991;;;
@@ -78,7 +78,7 @@
 77;Who;Who's next;1971;X;CD;
 78;Elvis Presley;The Sun sessions;1976;;;
 79;Frank Ocean;Blonde;2016;;;
-80;Sex pistols;Never mind the bollocks, here's the Sex pistols;1977;;;
+80;Sex pistols;Never mind the bollocks, here's the Sex pistols;1977;X;CD;
 81;Beyoncé;Beyoncé;2013;X;CD;
 82;Sly and the family Stone;There's a riot goin' on;1971;;;
 83;Dusty Springfield;Dusty in Memphis;1969;;;
@@ -88,9 +88,9 @@
 87;Miles Davis;Bitches brew;1970;;;
 88;David Bowie;Hunky dory;1971;;;
 89;Erykah Badu;Baduizm;1997;;;
-90;Neil Young;After the goldrush;1970;;;
+90;Neil Young;After the goldrush;1970;X;CD;
 91;Bruce Springsteen;Darkness on the edge of town;1978;;;
-92;Jimi Hendrix;Axis : bold as love;1967;;;
+92;Jimi Hendrix;Axis: bold as love;1967;;;
 93;Missy Elliott;Supa dupa fly;1997;;;
 94;Stooges;Fun house;1970;;;
 95;Drake;Take care;2011;;;
@@ -113,14 +113,14 @@
 112;Elton John;Goodbye yellow brick road;1973;;;
 113;Smiths;The queen is dead;1986;;;
 114;Strokes;Is this it;2001;X;CD;
-115;Kendrick Lamar;Good kid : m.a.a.d. City;2012;;;
+115;Kendrick Lamar;Good kid : m.a.a.d. City;2012;X;CD;
 116;Cure;Disintegration;1989;;;
 117;Kanye West;Late registration;2005;X;CD;
 118;Eagles;Hotel California;1976;X;LP;
 119;Sly and the family Stone;Stand!;1969;;;
 120;Van Morrison;Moondance;1970;;;
 121;Elvis Costello;This year's model;1978;;;
-122;Nine inch nails;The downward spiral;1994;;;
+122;Nine inch nails;The downward spiral;1994;X;CD;
 123;Led zeppelin;Led zeppelin 2;1969;X;CD;
 124;U2;Achtung baby;1991;X;CD;
 125;Beastie boys;Paul's boutique;1989;;;
@@ -128,8 +128,8 @@
 127;Ray Charles;Modern sounds in country and western music;1962;;;
 128;Queen;A night at the opera;1975;X;LP;
 129;Pink floyd;The wall;1979;X;CD;
-130;Prince;1999;1982;;;
-131;Portishead;Dummy;1994;;;
+130;Prince;1999;1982;X;CD;
+131;Portishead;Dummy;1994;X;CD;
 132;Hank Williams;40 greatest hits;1978;;;
 133;Joni Mitchell;Hejira;1976;X;CD;
 134;Fugees;The score;1996;;;
@@ -184,14 +184,14 @@
 183;D'Angelo;Brown sugar;1995;;;
 184;Cyndi Lauper;She's so unusual;1983;;;
 185;Rolling stones;Beggars banquet;1968;;;
-186;Red hot chili peppers;Blood sugar sex magik;1991;X;CD, LP;2x CD, 1x LP
+186;Red Hot Chili Peppers;Blood sugar sex magik;1991;X;CD, LP;2x CD, 1x LP
 187;Ice Cube;Amerikkka's most wanted;1990;;;
 188;T. Rex;Electric warrior;1971;;;
 189;Sleater-Kinney;Dig me out;1997;;;
 190;Who;Tommy;1969;X;CD;
 191;Etta James;At last!;1960;;;
 192;Beastie boys;Licensed to ill;1986;X;CD;
-193;Creedence clearwater revival;Willy and the poor boys;1969;;;
+193;Creedence Clearwater Revival;Willy and the poor boys;1969;;;
 194;Michael Jackson;Bad;1987;X;LP;
 195;Leonard Cohen;Songs of Leonard Cohen;1967;;;
 196;Robyn;Body talk;2010;;;
@@ -219,7 +219,7 @@
 218;TLC;Crazysexycool;1994;;;
 219;Raekwon;Only built 4 Cuban linx;1995;;;
 220;Crosby, Stills, Nash & Young;Déjà vu;1970;X;LP;
-221;Rage against the machine;Rage against the machine;1992;X;CD;
+221;Rage Against the Machine;Rage against the machine;1992;X;CD;
 222;Madonna;Ray of light;1998;;;
 223;John Lennon;Imagine;1971;;;
 224;Dixie chicks;Fly;1999;;;
@@ -278,7 +278,7 @@
 277;Alicia Keys;The diary of Alicia Keys;2003;;;
 278;Led zeppelin;Houses of the holy;1973;;;
 279;Nirvana;Unplugged in New York;1994;X;CD;
-280;50 Cent;Get rich or die tryin';2003;;;
+280;50 Cent;Get rich or die tryin';2003;X;CD;
 281;Harry Nilsson;Nilsson Schmilsson;1971;;;
 282;Frank Sinatra;In the wee small hours;1955;;;
 283;Donna Summer;Bad girls;1979;;;
@@ -296,7 +296,7 @@
 295;Daft punk;Random access memories;2013;;;
 296;Neil Young;Rust never sleeps;1979;;;
 297;Peter Gabriel;So;1986;;;
-298;Tom Petty;Full moon fever;1989;;;
+298;Tom Petty;Full moon fever;1989;X;CD;
 299;B.B. King;Live at the Regal;1965;;;
 300;Shania Twain;Come on over;1997;X;CD;
 301;New York dolls;New York dolls;1973;;;
@@ -314,8 +314,8 @@
 313;PJ Harvey;Stories from the city, stories from the sea;2000;;;
 314;Aaliyah;One in a million;1996;;;
 315;Rosalía;El mal querer;2018;;;
-316;Who;The Who sell out;1967;;;
-317;Billie Holiday;Lady in satin;1958;;;
+316;Who;The Who sell out;1967;X;CD;
+317;Billie Holiday;Lady in satin;1958;X;CD;
 318;Janet Jackson;The velvet rope;1997;;;
 319;Stone roses;The Stone roses;1989;;;
 320;X;Los Angeles;1980;;;
@@ -359,7 +359,7 @@
 358;Sonic youth;Goo;1990;;;
 359;Big star;Radio city;1974;;;
 360;Funkadelic;One nation under a groove;1978;;;
-361;My chemical romance;The black parade;2006;X;CD;
+361;My Chemical Romance;The black parade;2006;X;CD;
 362;Luther Vandross;Never too much;1981;;;
 363;Parliament;Mothership connection;1975;;;
 364;Talking heads;More songs about buildings and food;1978;;;
@@ -374,14 +374,14 @@
 373;Isaac Hayes;Hot buttered soul;1969;;;
 374;Robert Johnson;King of the Delta blues singers;1961;;;
 375;Green day;Dookie;1994;X;CD;
-376;Neutral milk hotel;In the aeroplane over the sea;1998;;;
+376;Neutral Milk Hotel;In the aeroplane over the sea;1998;;;
 377;Yeah Yeah Yeahs;Fever to tell;2003;;;
 378;Run DMC;Run DMC;1984;;;
-379;Rush;Moving pictures;1981;;;
+379;Rush;Moving pictures;1981;X;CD;
 380;Charles Mingus;Mingus ah um;1959;;;
-381;Lynyrd skynyrd;Pronounced Leh-Nerd-Skin-Nerd;1973;;;
+381;Lynyrd skynyrd;Pronounced Leh-Nerd-Skin-Nerd;1973;X;CD;
 382;Tame impala;Currents;2015;;;
-383;Massive attack;Mezzanine;1998;;;
+383;Massive attack;Mezzanine;1998;X;CD;
 384;Kinks;The Kinks are the Village green preservation society;1968;;;
 385;Ramones;Rocket to Russia;1977;;;
 386;Jay Dee aka J Dilla;Donuts;2006;;;
@@ -455,7 +455,7 @@
 454;Can;Ege bamyasi;1972;;;
 455;Bo Diddley;Bo Diddley/Go Bo Diddley;1958;;;
 456;Al Green;Greatest hits;1975;;;
-457;Sinéad O'Connor;I do not want what I haven't got;1990;;;
+457;Sinéad O'Connor;I do not want what I haven't got;1990;X;CD;
 458;Jason Isbell;Southeastern;2013;;;
 459;Kid Cudi;Man on the moon : the end of the day;2009;;;
 460;Lorde;Melodrama;2017;;;
@@ -494,7 +494,7 @@
 493;Marvin Gaye;Here, my dear;1978;;;
 494;Ronettes;Presenting the fabulous Ronettes featuring Veronica;1964;;;
 495;Boyz II men;II;1994;;;
-496;Shakira;Dónde están los ladrones?;1998;;;
+496;Shakira;Dónde están los ladrones?;1998;X;CD;
 497;#;The indestructable beat of Soweto : vol. one;1985;;;
 498;Suicide;Suicide;1977;;;
 499;Rufus and Chaka Khan;Ask Rufus;1977;;;
